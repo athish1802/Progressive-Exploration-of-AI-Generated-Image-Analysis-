@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "Progressive Exploration of AI-Generated Image Analysis: Presenting Gender Differences and Stereotypes in Text-to-Image Models"
+type: article
+authors:
+  - family-names: Suresh
+    given-names: Athish Balakrishnan
+year: 2024
+conference: "IConIC"
+abstract: "Research examining gender differences and stereotypes in text-to-image model outputs."
+keywords:
+  - responsible AI
+  - text-to-image models
+  - gender stereotypes
+  - AI-generated images
+  - fairness
+notes: "Presented at IConIC, Chennai, India, in 2024. Publication in Scopus-indexed proceedings is pending."
